@@ -1,3 +1,9 @@
+# Disclaimer
+
+The MIT License is only applicable to the design of the website software, not the content (like content of the blogs). '
+
+All rights reserved for the contents of the website and the contents of the blogs.
+
 # Released under MIT License
 
 Copyright (c) 2013 Mark Otto.
